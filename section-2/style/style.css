@@ -8,9 +8,12 @@
 }
 
 .table .icon-del {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  padding-left: 0;
+  padding-right: 0;
+  cursor: pointer;
+}
+
+.table .icon-update {
   padding-left: 0;
   padding-right: 0;
   cursor: pointer;
