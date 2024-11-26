@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+  font-family: sans-serif;
+}
+
+// :host {
+//   display: block;
+//   overflow: hidden;
+//   position: relative;
+//   width: 100%;
+// }
+
+.container {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
